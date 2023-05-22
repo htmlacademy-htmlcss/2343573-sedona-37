@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Денис Гадельзянов](https://up.htmlacademy.ru/htmlcss/37/user/2343573).
-* Наставник: `Неизвестно`.
+* Наставник: `Ирина Малиновская`(https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
